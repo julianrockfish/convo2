@@ -1,0 +1,38 @@
+    html {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-size: 70px;
+}
+form {
+    color: black;
+    font-size: 50px;
+}
+input {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    color: #ffffff;
+    font-size: 56px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+select {
+    -webkit-appearance: none;
+    background: 0 0;
+    border-radius: 0;
+    border: 0;
+    font-size: 50px;
+    /*color: #044;
+    cursor: pointer;
+
+    margin: 0;
+    opacity: 0;
+    outline: 0;
+    padding: 2.5rem 0;
+    position: absolute;
+ 
+    z-index: 1;
+} */
